@@ -1,5 +1,5 @@
 # stroop_test
-DAND project t2_p5:  Test a perceptual phenomenon
+DAND project#5 term2:  Test a perceptual phenomenon
 
 resources used:<br>
 -- DAND Slack community mentors and student discussions<br>
